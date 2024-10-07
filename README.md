@@ -20,7 +20,7 @@ pip install -r requirements.txt
 Crear el archivo .env fuera de la carpeta app
 
 ```bash
-DATABASE_URL=External Database URL
+DATABASE_URL=External Database URL ejemplo postgresql://postgres:admin@localhost/agroselvadb
 FRONTEND_URL=página web
 SECRET_KEY=09d25e094faa6ca2556c818166b7a9563b93f7099f6f0f4caa6cf63b88e3238d3e721212121
 ALGORITHM=HS256
